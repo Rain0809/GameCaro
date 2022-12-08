@@ -1,0 +1,22 @@
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\bin\Debug\GameCarobyhuy.exe.config
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\bin\Debug\GameCarobyhuy.exe
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\bin\Debug\GameCarobyhuy.pdb
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.csproj.AssemblyReference.cache
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.Form1.resources
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.Properties.Resources.resources
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.csproj.GenerateResource.cache
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.csproj.CoreCompileInputs.cache
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.exe
+C:\Users\huyxu\OneDrive\Tài liệu\file C#\GameCarobyhuy\GameCarobyhuy\obj\Debug\GameCarobyhuy.pdb
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\bin\Debug\GameCarobyhuy.exe.config
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\bin\Debug\GameCarobyhuy.exe
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\bin\Debug\GameCarobyhuy.pdb
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.csproj.AssemblyReference.cache
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.csproj.SuggestedBindingRedirects.cache
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.Form1.resources
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.Properties.Resources.resources
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.csproj.GenerateResource.cache
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.csproj.CoreCompileInputs.cache
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.exe
+D:\NTU\HKI Nam3\TaiLieuThamKhao\GameCaroByhuy-main\GameCaroByhuy-main\obj\Debug\GameCarobyhuy.pdb
