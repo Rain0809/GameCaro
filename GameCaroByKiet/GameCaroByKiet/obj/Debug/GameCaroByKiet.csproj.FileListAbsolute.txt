@@ -1,0 +1,11 @@
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\bin\Debug\GameCaroByKiet.exe.config
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\bin\Debug\GameCaroByKiet.exe
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\bin\Debug\GameCaroByKiet.pdb
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.csproj.AssemblyReference.cache
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.csproj.SuggestedBindingRedirects.cache
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.Properties.Resources.resources
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.csproj.GenerateResource.cache
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.csproj.CoreCompileInputs.cache
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.exe
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.pdb
+D:\NTU\HKI Nam3\ThucTapCoSo\GameCaroByKiet\GameCaroByKiet\obj\Debug\GameCaroByKiet.ChessBoardCaro.resources
